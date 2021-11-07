@@ -1,7 +1,9 @@
 # my-weekend-fdd-hobby
-Fault Detection Diagnostics for HVAC from ASHRAE Guideline 36 sequences in Jupyter Labs with Python & Pandas.
+Fault Detection Diagnostics for HVAC from ASHRAE Guideline 36 sequences in Jupyter Labs with Python & Pandas
 
-The purpose is for learning and pseudo code code development on actual FDD systems
+The purpose is for learning and pseudo code development on actual FDD systems
+
+Each ASHRAE Guideline 36 Fault Condition will be representded in unique IPython notebook
 
 ## Author
 
